@@ -1,5 +1,5 @@
 # cs336
-Final Project from Rutgers CS336 
+Final Project from Rutgers CS336 DBMS
 
 "Buy N Sell" WebApp using JSP,  mySQL and hosted on EC2 
 
